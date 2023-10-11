@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @voidmadhumita
+- 👋 Hi, I’m @madhumitanaskar
 - 👀 I’m interested in ... Python
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ...
